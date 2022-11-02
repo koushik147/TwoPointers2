@@ -1,3 +1,5 @@
+#Time_Complexity: O(n) 
+#Space_Complexity : O(1)
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         slow = 1    # create slow pointer to 1
